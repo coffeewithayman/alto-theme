@@ -65,3 +65,13 @@
         display: none !important;
     }
 }
+
+/* Hide author names everywhere */
+.kg-bookmark-author,
+.author-box,
+.author,
+.post-author,
+.article-author,
+.byline-author {
+    display: none !important;
+}
